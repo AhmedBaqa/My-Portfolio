@@ -14,7 +14,7 @@ Analyzed hotel booking data to identify booking characteristics associated with 
 
 **Skills:** Data Cleaning · Exploratory Data Analysis · Statistical Analysis · Data Visualization
 
-[View Project](PROJECT-LINK)
+[View Project](https://github.com/AhmedBaqa/hotel-booking-cancellation-analysis-python)
 
 ---
 
@@ -26,7 +26,7 @@ Assessed and cleaned retail sales data across multiple datasets, identifying mis
 
 **Skills:** Data Cleaning · Data Quality Assessment · Data Validation · Python
 
-[View Project](PROJECT-LINK)
+[View Project](https://github.com/AhmedBaqa/retail-sales-data-cleaning-python)
 
 ---
 
@@ -38,7 +38,7 @@ Cleaned, transformed, and analyzed Amazon product data to investigate pricing, d
 
 **Skills:** Excel · Data Cleaning · Pivot Tables · KPI Analysis · Dashboard Design
 
-[View Project](PROJECT-LINK)
+[View Project](https://github.com/AhmedBaqa/Amazon_Product_Sales_Cleaning_Analysis_Dashboard)
 
 ---
 
@@ -50,7 +50,7 @@ Developed an interactive dashboard analyzing unemployment, labour force particip
 
 **Skills:** Power BI · DAX · Data Modeling · Data Visualization · Statistical Analysis
 
-[View Project](PROJECT-LINK)
+[View Project](https://github.com/AhmedBaqa/pakistan-labour-market-analysis-powerbi)
 
 ---
 
@@ -62,7 +62,7 @@ Cleaned and analyzed global layoff data from 2020–2023 to identify trends acro
 
 **Skills:** SQL · Data Cleaning · CTEs · Window Functions · Exploratory Data Analysis
 
-[View Project](PROJECT-LINK)
+[View Project](https://github.com/AhmedBaqa/global-layoffs-data-analysis-sql)
 
 ## Technical Skills
 
@@ -80,7 +80,7 @@ I am currently seeking opportunities as a **Junior Data Analyst / Data Analyst**
 
 ## Contact
 
-**GitHub:** [Ahmed Baqa](GITHUB-PROFILE-LINK)
+**GitHub:** [Ahmed Baqa](https://github.com/AhmedBaqa)
 
-**LinkedIn:** [LinkedIn Profile](LINKEDIN-LINK)
+**LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/ahmed-aslam-baqa-8649a21aa)
 
