@@ -82,5 +82,5 @@ I am currently seeking opportunities as a **Junior Data Analyst / Data Analyst**
 
 **GitHub:** [Ahmed Baqa](https://github.com/AhmedBaqa)
 
-**LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/ahmed-aslam-baqa-8649a21aa)
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmed-aslam-baqa-8649a21aa/)
 
