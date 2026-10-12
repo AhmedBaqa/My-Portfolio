@@ -64,6 +64,18 @@ Cleaned and analyzed global layoff data from 2020–2023 to identify trends acro
 
 [View Project](https://github.com/AhmedBaqa/global-layoffs-data-analysis-sql)
 
+---
+
+### 6. Supply Chain Control Tower
+
+**Power BI | DAX | Power Query | Data Visualization**
+
+Built a professional, executive-grade 2-page Supply Chain Control Tower to provide end-to-end SLA visibility, carrier cost efficiency tracking, regional risk mapping, and root-cause exception analysis.
+
+**Skills:** Power BI · DAX · Data Modeling · Data Visualization · Executive Dashboard Design · Root Cause Analysis
+
+[View Project](https://github.com/Ahmed-Baqa/supply-chain-control-tower)
+
 ## Technical Skills
 
 **Languages & Analysis:** Python · SQL
