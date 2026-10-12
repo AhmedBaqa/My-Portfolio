@@ -74,7 +74,7 @@ Built a professional, executive-grade 2-page Supply Chain Control Tower to provi
 
 **Skills:** Power BI · DAX · Data Modeling · Data Visualization · Executive Dashboard Design · Root Cause Analysis
 
-[View Project](https://github.com/Ahmed-Baqa/supply-chain-control-tower)
+[View Project](https://github.com/AhmedBaqa/powerbi-supply-chain-control-tower)
 
 ## Technical Skills
 
